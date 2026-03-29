@@ -17,6 +17,7 @@ I design and develop **high-efficiency terminal utilities** for Android using Te
 | **tc** | Terminal command shortcuts and automation scripts |
 | **exe!** | Environment-aware script execution tool |
 | **x** | Lightweight launcher and quick-execution utility |
+| **uname** | Lightweight fake script to appear as Ubuntu in uname |
 
 All projects are **dependency-free**, fully optimized for Termux, and designed for practical CLI workflows.  
 
